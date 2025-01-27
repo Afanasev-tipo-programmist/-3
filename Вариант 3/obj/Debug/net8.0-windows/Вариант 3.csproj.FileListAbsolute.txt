@@ -1,0 +1,20 @@
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\bin\Debug\net8.0-windows\Вариант 3.exe
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\bin\Debug\net8.0-windows\Вариант 3.deps.json
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\bin\Debug\net8.0-windows\Вариант 3.runtimeconfig.json
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\bin\Debug\net8.0-windows\Вариант 3.dll
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\bin\Debug\net8.0-windows\Вариант 3.pdb
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\Вариант 3_MarkupCompile.cache
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\Вариант 3_MarkupCompile.lref
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\Вариант 3.g.resources
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\Вариант 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\Вариант 3.AssemblyInfoInputs.cache
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\Вариант 3.AssemblyInfo.cs
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\Вариант 3.csproj.CoreCompileInputs.cache
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\Вариант 3.dll
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\refint\Вариант 3.dll
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\Вариант 3.pdb
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\Вариант 3.genruntimeconfig.cache
+C:\Users\Timofey\Desktop\Практическая 1\Вариант 3\obj\Debug\net8.0-windows\ref\Вариант 3.dll
